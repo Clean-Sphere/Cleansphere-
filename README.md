@@ -27,3 +27,5 @@ Welcome to CleanSphere, an open-source project dedicated to fostering sustainabl
 ### To measure air quality, temperature, and humidity with these sensors, you'll need to Flash the [CADIO FIRMWARE](https://egycad.com/cadio/docs/category/firmware/ "Named link title") onto the ESP8266/ESP32 Via [ESP Flash Tool](https://www.espressif.com/en/support/download/other-tools "Named link title") and configure the connection and pins via the CADIO mobile app
 
 ## 3D Printed case!
+<img width="924" alt="Screenshot 2024-01-06 072544" src="https://github.com/Clean-Sphere/Cleansphere-/assets/155823427/c81cc899-4a4b-4aad-8acb-b26282ddb3a5">
+### The case is designed Compactly sized to fit snugly around your components, this case minimizes material waste, while cleverly placed ventilation holes promote passive cooling and reduces energy consumption.
