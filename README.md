@@ -33,3 +33,5 @@ Welcome to CleanSphere, an open-source project dedicated to fostering sustainabl
 <img width="923" alt="Screenshot 2024-01-06 072618" src="https://github.com/Clean-Sphere/Cleansphere-/assets/155823427/905a0a55-a298-43c1-b8c5-bb4c4eabb86e">
 
 #### The case is also uploaded opensource in this page where you can download and modify your case to your liking!
+
+## integration of diffrent accesories and Google home!
