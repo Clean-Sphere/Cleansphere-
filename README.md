@@ -28,4 +28,8 @@ Welcome to CleanSphere, an open-source project dedicated to fostering sustainabl
 
 ## 3D Printed case!
 <img width="924" alt="Screenshot 2024-01-06 072544" src="https://github.com/Clean-Sphere/Cleansphere-/assets/155823427/c81cc899-4a4b-4aad-8acb-b26282ddb3a5">
-### The case is designed Compactly sized to fit snugly around your components, this case minimizes material waste, while cleverly placed ventilation holes promote passive cooling and reduces energy consumption.
+
+#### The case is designed Compactly sized to fit snugly around your components.this case also minimizes material waste, while cleverly placed ventilation holes promote passive cooling and reduces energy consumption.
+<img width="923" alt="Screenshot 2024-01-06 072618" src="https://github.com/Clean-Sphere/Cleansphere-/assets/155823427/905a0a55-a298-43c1-b8c5-bb4c4eabb86e">
+
+#### The case is also uploaded opensource in this page where you can download and modify your case to your liking!
