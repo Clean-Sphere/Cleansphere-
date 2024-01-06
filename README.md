@@ -24,4 +24,4 @@ Welcome to CleanSphere, an open-source project dedicated to fostering sustainabl
 * GND: Connect to ground.
 * AOUT: Connect to an analog pin on your microcontroller.
 
-### To measure air quality, temperature, and humidity with these sensors, you'll need to Flash the [CADIO FIRMWARE](https://egycad.com/cadio/docs/category/firmware/ "Named link title") onto the ESP8266/ESP32 Via [ESP Flash Tool](https://www.espressif.com/en/support/download/other-tools "Named link title") and write some code to read the sensor values. The code will need to:
+### To measure air quality, temperature, and humidity with these sensors, you'll need to Flash the [CADIO FIRMWARE](https://egycad.com/cadio/docs/category/firmware/ "Named link title") onto the ESP8266/ESP32 Via [ESP Flash Tool](https://www.espressif.com/en/support/download/other-tools "Named link title") and configure the connection and pins via the CADIO mobile app
