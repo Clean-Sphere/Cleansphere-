@@ -1,4 +1,4 @@
-# Cleansphere- #
+# Cleansphere🌍 #
 Welcome to CleanSphere, an open-source project dedicated to fostering sustainable practices through advanced environmental monitoring. This repository houses the codebase and design files for a comprehensive system that integrates an ESP32 microcontroller, DHT22 temperature and humidity sensor,MQ-135 gas sensor, and a user-friendly CADIO dashboard.
 
 ## List of parts required!
@@ -7,7 +7,7 @@ Welcome to CleanSphere, an open-source project dedicated to fostering sustainabl
 * ESP8226MOD/ESP32
 * 3D Printed casing
 
-## Wiring diagram for the ESP32
+## Pinnout diagram for the ESP32
 <img width="474" alt="Image20240106070325" src="https://github.com/Clean-Sphere/Cleansphere-/assets/155823427/06954a58-d221-4f1e-8dc7-27c299034727">
 
 ### These are the connections for each sensor:
