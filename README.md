@@ -34,8 +34,11 @@ Welcome to CleanSphere, an open-source project dedicated to fostering sustainabl
 
 #### The case is also uploaded opensource in this page where you can download and modify your case to your liking!
 
-## integration of diffrent accesories and Google home!
+## integration of diffrent modules and Google home!
 ![x](https://github.com/Clean-Sphere/Cleansphere-/assets/155823427/ea1ff7be-93c9-4ff3-8a29-6d05d46ea49c)
 
 ## Google Home Integration:
 With the integration of Google Home, CleanSphere becomes voice-activated and seamlessly connects with the broader smart home ecosystem. Users can leverage Google Assistant to query and control the environmental parameters monitored by CleanSphere effortlessly.(yet to be implimented soon!)
+### adittion and use of diffrent modules
+Because of the vast amound of diffrent sensors that can be used and configured with the ESP8266/ESP32 it is possible to swap out the pre existing sensors used in this system with diffrent kinds of sensors like MQ4 Methane gas sensor module,MQ3 Alcohol sensor module,DHT11 or LM35DZ.
+We can also add aditional modules such as a SIM800L GSM module which allows to send and recive text messages when configured to do so!
