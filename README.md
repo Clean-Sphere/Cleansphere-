@@ -40,5 +40,6 @@ Welcome to CleanSphere, an open-source project dedicated to fostering sustainabl
 ## Google Home Integration:
 With the integration of Google Home, CleanSphere becomes voice-activated and seamlessly connects with the broader smart home ecosystem. Users can leverage Google Assistant to query and control the environmental parameters monitored by CleanSphere effortlessly.(yet to be implimented soon!)
 ### adittion and use of diffrent modules
-Because of the vast amound of diffrent sensors that can be used and configured with the ESP8266/ESP32 it is possible to swap out the pre existing sensors used in this system with diffrent kinds of sensors like MQ4 Methane gas sensor module,MQ3 Alcohol sensor module,DHT11 or LM35DZ.
-We can also add aditional modules such as a SIM800L GSM module which allows to send and recive text messages when configured to do so!
+Because of the vast amount of diffrent sensors that can be used and configured with the ESP8266/ESP32 it is possible to swap out the pre existing sensors used in this system with diffrent kinds of sensors like MQ4 Methane gas sensor module,MQ3 Alcohol sensor module,DHT11 or LM35DZ.
+
+it is also possibel to add aditional modules such as a SIM800L GSM module which allows to send and recive text messages when configured to do so!(currently only avilable for arduino IDE and not avilable for CADIO as of now)
